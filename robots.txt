@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://biumigmi.github.io/sitemap.html.gz
+Sitemap: https://biumigmi.github.io/app/sitemap.html.gz
+Sitemap: https://biumigmi.github.io/assets/sitemap.html.gz
+Sitemap: https://biumigmi.github.io/css/sitemap.html.gz
+Sitemap: https://biumigmi.github.io/includes/sitemap.html.gz
+Sitemap: https://biumigmi.github.io/item/sitemap.html.gz
+Sitemap: https://biumigmi.github.io/src/sitemap.html.gz
